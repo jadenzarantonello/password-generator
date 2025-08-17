@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    text-align: center;
+}
+
+h2{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.input-container{
+    margin: 1rem;
+}
